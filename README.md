@@ -45,7 +45,7 @@ dsh plugin --profile web add github:nwasvsad/dsh-task-plan#<commit>
 也可以使用插件市场索引（Discover → Index sources）：
 
 ```text
-https://raw.githubusercontent.com/nwasvsad/dsh-plugin-market/main/index.json
+https://cdn.jsdelivr.net/gh/nwasvsad/dsh-plugin-market@main/index.json
 ```
 
 Git 安装会拉取源码并执行 `prepare`（重新构建 `lib/client.js`）；如果 pnpm 要求构建授权，按提示把包名加入该 profile 的 `pnpm-workspace.yaml` 的 `allowBuilds`。`lib/` 已提交，未授权构建时通常仍可直接加载。
