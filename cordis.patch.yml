@@ -1,0 +1,5 @@
+# dsh-task-plan bundle layer: installing this package adds the plan page.
+# Users override this row's config in their profile's cordis.patch.yml.
+- insert:
+    - id: task-plan
+      name: dsh-task-plan

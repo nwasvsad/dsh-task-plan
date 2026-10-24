@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Task plan">
+  <rect width="64" height="64" rx="14" fill="#2f6feb"/>
+  <rect x="15" y="12" width="34" height="42" rx="5" fill="#ffffff"/>
+  <rect x="24" y="9" width="16" height="7" rx="3" fill="#dbe8ff"/>
+  <path d="M23 26h18M23 34h18M23 42h10" stroke="#2f6feb" stroke-width="3" stroke-linecap="round"/>
+  <path d="M40 44l4 4 7-9" stroke="#1a7f37" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
